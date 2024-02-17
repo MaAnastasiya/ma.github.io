@@ -5,8 +5,8 @@
             <body>
                 <p>Авторство</p>
                 <h4 id="author" title="GossJS">Ма Анастасия</h4>
-                <a href="https://github.com/VKostya/VKostya.github.io/blob/master/xsl_to_svg/task2/svg.xsl">Посмотреть XSLT</a>
-                <a href="https://vkostya.github.io/xsl_to_svg/index.html">Вернуться</a>
+                <a href="https://github.com/MaAnastasiya/ma.github.io/blob/main/xsl_to_svg/task2/svg.xsl">Посмотреть XSLT</a>
+                <a href="https://maanastasiya.github.io/ma.github.io/xsl_to_svg/index.html">Вернуться</a>
                 <xsl:apply-templates />
             </body>
         </html>
