@@ -9,7 +9,7 @@
             <body>
                 <p>Авторство</p>
                 <h4 id="author" title="GossJS">Ма Анастасия</h4>
-                <a href="https://github.com">Посмотреть XSLT</a>
+                <a href="https://github.com/MaAnastasiya/ma.github.io/">Посмотреть XSLT</a>
                 <a href="../index.html">Вернуться назад</a>
                 <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
                     <xsl:apply-templates/>
